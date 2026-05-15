@@ -34,29 +34,13 @@ Ambiente de Desenvolvimento: VS Code
 ---
 
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🌐 Contato
 
 💼 LinkedIn:  
-https://linkedin.com/in/SEU-LINK
+https://www.linkedin.com/in/maria-eduarda-santos-579a0b289/
 
 📧 E-mail:  
-seuemail@email.com
-
-🚀 GitHub:  
-https://github.com/SEU-USUARIO
+mariduardasantos@gmail.com
 
 ---
 
