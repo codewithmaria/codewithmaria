@@ -11,17 +11,14 @@ Gosto muito do ramo da tecnologia e desenvolvimento. Aprendo coisas novas com ba
 
 ---
 
-## Tecnologias e Ferramentas
-
-### 👨‍💻 Linguagens
+###  Habilidades  💻
 Possuo conhecimento nas tecnologias e linguagens:
 
-Linguagens: Python, Java, PHP, HTML, CSS, JavaScript, C
-Frameworks: Django
-Banco de Dados: MySQL
-Controle de Versão: Git, GitHub
-Ambiente de Desenvolvimento: VS Code
----
+- **Linguagens:** Python, Java, PHP, HTML, CSS, JavaScript, C
+- **Frameworks:** Django
+- **Banco de Dados:** MySQL
+- **Controle de Versão:** Git, GitHub
+- **Ambiente de Desenvolvimento:** VS Code
 
 ## 📚 Atualmente estudando
 
