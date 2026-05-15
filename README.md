@@ -1,7 +1,7 @@
 <h1 align="center">Oie! Eu sou Maria Eduarda 👋</h1>
 
 <p align="center">
-Sou ema estudante de Ciência da Computação que almeja colocar tudo na ponta do lápis. Me interessado em Cloud Computing, Python e Desenvolvimento e sempre estou em busca de aprender algo novo.
+Sou uma estudante de Ciência da Computação que almeja colocar tudo na ponta do lápis. Me interessado em Cloud Computing, Python e Desenvolvimento e sempre estou em busca de aprender algo novo.
 </p>
 
 ---
