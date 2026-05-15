@@ -14,27 +14,13 @@ Gosto muito do ramo da tecnologia e desenvolvimento. Aprendo coisas novas com ba
 ## Tecnologias e Ferramentas
 
 ### 👨‍💻 Linguagens
+Possuo conhecimento nas tecnologias e linguagens:
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img align="center" alt="Java" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-  <img align="center" alt="HTML" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="Git" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-  <img align="center" alt="Github" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
-
+Linguagens: Python, Java, PHP, HTML, CSS, JavaScript, C
+Frameworks: Django
+Banco de Dados: MySQL
+Controle de Versão: Git, GitHub
+Ambiente de Desenvolvimento: VS Code
 ---
 
 ## 📚 Atualmente estudando
@@ -47,14 +33,6 @@ Gosto muito do ramo da tecnologia e desenvolvimento. Aprendo coisas novas com ba
 
 ---
 
-## 🛠️ Ferramentas
-
-- VS Code
-- GitHub
-- MySQL
-- Pacote Office
-
----
 
 ## 📊 Estatísticas GitHub
 
